@@ -12,7 +12,7 @@ I made it in bash because of better compatibillity just in case a machine would 
 
 
 
-Author: Alagie Trawally aka ax3T43r/c0b74
+Author: m1cr0
 
 || Copyright 2019 (License) ||
 
