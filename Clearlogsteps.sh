@@ -1,7 +1,7 @@
 #!/bin/bash
 printf "====================================================================\r\n"
 printf "=              Clearlogsteps - Cleaning Your Tracks...             =\r\n"
-printf "=            Author ax3T43r aka COB74(ALAGIE TRAWALLY)             =\r\n"
+printf "=            Author     - micr0         		           =\r\n"
 printf "= This Script Needs Root Privileges To Completely Wipe Your Tracks =\r\n"
 printf "====================================================================\r\n\r\n"
 
